@@ -1,0 +1,16 @@
+#ss-share.admin {
+    padding:15px;
+}
+
+#ss-share.admin .platform-logo {
+    vertical-align: middle;
+    width: 20px;
+}
+
+#ss-share.admin .mt-10 {
+    margin-top: 10px;
+}
+
+#ss-share.admin .mb-10 {
+    margin-bottom: 10px;
+}
